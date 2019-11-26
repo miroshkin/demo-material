@@ -11,7 +11,7 @@
     <link href="../Styles/jquery-ui.structure.min.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" type="text/css" href="/Styles/Main.css" />
     <script src="../Scripts/jquery-1.9.1.min.js" type="text/javascript"></script>
-    <script src="../Scripts/MyJavaScript.js" type="text/javascript"></script>
+    <script src="../Scripts/app.js" type="text/javascript"></script>
     <script src="../Scripts/jquery-ui.min.js" type="text/javascript"></script>
     <script type="text/javascript">
 

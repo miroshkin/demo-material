@@ -10,7 +10,7 @@
 <head runat="server">
     <title>РЕДАКТОР ИЗДЕЛИЙ</title>
     <script src="../Scripts/jquery-1.9.1.min.js" type="text/javascript"></script>
-    <script src="../Scripts/MyJavaScript.js" type="text/javascript"></script>
+    <script src="../Scripts/app.js" type="text/javascript"></script>
     <script src="../Scripts/jquery-ui.min.js" type="text/javascript"></script>
     <link href="../Styles/jquery-ui.css" rel="stylesheet" type="text/css" />
     <link href="../Styles/jquery-ui.structure.min.css" rel="stylesheet" type="text/css" />
