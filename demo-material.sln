@@ -1,19 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MEZ_OGK", "..\MEZ_OGK", "{83891417-90A3-47A5-A5AF-0F3A7AD65BC0}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "demo-material", "..\demo-material", "{83891417-90A3-47A5-A5AF-0F3A7AD65BC0}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
-		Debug.AspNetCompiler.VirtualPath = "/MEZ_OGK"
-		Debug.AspNetCompiler.PhysicalPath = "..\MEZ_OGK\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\MEZ_OGK\"
+		Debug.AspNetCompiler.VirtualPath = "/demo-material"
+		Debug.AspNetCompiler.PhysicalPath = "..\demo-material\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\demo-material\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/MEZ_OGK"
-		Release.AspNetCompiler.PhysicalPath = "..\MEZ_OGK\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\MEZ_OGK\"
+		Release.AspNetCompiler.VirtualPath = "/demo-material"
+		Release.AspNetCompiler.PhysicalPath = "..\demo-material\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\demo-material\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
