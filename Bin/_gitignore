@@ -1,0 +1,5 @@
+/AjaxControlToolkit.resources.dll
+*.gitignore
+*.dll
+*.pdb
+/.gitignore
